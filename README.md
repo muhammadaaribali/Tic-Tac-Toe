@@ -1,5 +1,7 @@
 🎮 Responsive Tic Tac Toe Game
+
 Demo: https://muhammadaaribali.github.io/Tic-Tac-Toe/
+
 A simple and responsive Tic Tac Toe game built with HTML, CSS, and JavaScript. Enhanced with Bootstrap and media queries to ensure a smooth experience on all devices. Player vs Player
 
 <img width="754" height="868" alt="Screenshot 2025-08-08 133939" src="https://github.com/user-attachments/assets/a8c08a30-d588-4b25-a27d-ae25efee23e9" />
